@@ -1,0 +1,138 @@
+body{
+    background:#FFF;
+    font-size:14px;
+}
+
+a{
+    color:#000;
+    text-decoration:none;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style:none;
+}
+
+img{
+    vertical-align:top;
+}
+.letao-header{
+    background-color: lightskyblue;
+}
+.letao-header h1{
+    color: #fff;
+}
+.letao-footer{
+    background-color: lightskyblue;
+}
+.letao-footer .mui-tab-item{
+    color: #fff;
+}
+.mui-scroll-wrapper{
+    top:44px;
+    bottom:50px;
+}
+.nav-link{
+    padding:10px;
+}
+
+.nav-link a{
+    display:block;
+    width:33.333%;
+    float:left;
+}
+
+.nav-link a img{
+    width:100%;
+    vertical-align:top;
+}
+.brand{
+    padding:0 10px;
+}
+
+.brand .title{
+    width:100%;
+    vertical-align:top;
+}
+
+.brand .list{
+    padding:10px 0;
+}
+
+.brand .list li{
+    width:25%;
+    float:left;
+}
+
+.brand .list a{
+    display:block;
+}
+
+.brand .list img{
+    width:100%;
+}
+.product{
+    padding:0 10px;
+}
+
+.product .title{
+    width:100%;
+    margin:10px 0;
+}
+.product li{
+    width:50%;
+    float:left;
+    padding:5px;
+}
+
+.product a{
+    display:block;
+    padding:0 5px;
+    box-shadow:0 0 5px #ccc;
+    overflow:hidden;
+}
+
+.product a img{
+    width:100%;
+}
+
+.product .name{
+    line-height:18px;
+    display:block;
+    color:#8f8f94;
+    text-align:center;
+    padding:6px;
+    height:44px;
+    overflow:hidden
+}
+
+.product p{
+    font-size:12px;
+    text-align:center;
+}
+
+.product p span:first-child{
+    color:#f30;
+    margin-right:2px;
+}
+
+.product p span:last-child{
+    color:#ccc;
+    text-decoration:line-through;
+    margin-left:2px;
+}
+
+.product .buy-now{
+    background:#006699;
+    color:#FFF;
+    margin:0 auto;
+    border:none;
+    display:block;
+    margin-bottom:10px;
+}
+
+
