@@ -50,7 +50,7 @@ $(function(){
 
 						}else{
 
-							location.href = "user.html";
+							location.href = "register.html";
 
 						}
 						

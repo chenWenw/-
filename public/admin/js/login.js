@@ -7,7 +7,7 @@ $(function(){
 
 			if(result.success){
 
-				location.href = "user.html";
+				location.href = "register.html";
 
 			}
 
@@ -46,7 +46,7 @@ $(function(){
 
 				if(result.success){
 
-					location.href = "user.html";
+					location.href = "register.html";
 
 				}else{
 

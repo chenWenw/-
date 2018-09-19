@@ -1,0 +1,41 @@
+.getCode{
+    position: absolute;
+    color: skyblue;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+.register-btn{
+    width: 80%;
+    margin: 0 auto;
+    background-color: skyblue;
+    border: none;
+}
+.login-now{
+    display: block;
+    margin-top: 10px;
+    padding-right: 10px;
+    text-align: right;
+    color: skyblue;
+    font-size: 14px;
+}
+.login-btn{
+    width: 80%;
+    margin: 0 auto;
+    background-color: skyblue;
+    border: none;
+}
+.register-free{
+    display: block;
+    margin-top: 10px;
+    padding-right: 10px;
+    text-align: right;
+    color: skyblue;
+    font-size: 14px;
+}
+.modify-btn{
+    width: 80%;
+    margin: 0 auto;
+    background-color: skyblue;
+    border: none;
+}
